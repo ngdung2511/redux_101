@@ -3,7 +3,7 @@ import { Typography } from "antd";
 const CustomerDetailPage = () => {
   return (
     <div>
-      <div className="custom-store">
+      {/* <div className="custom-store">
         <ThemeProvider>
           <div
             style={{
@@ -38,7 +38,7 @@ const CustomerDetailPage = () => {
             ]}
           />
         </ThemeProvider>
-      </div>
+      </div> */}
     </div>
   );
 };

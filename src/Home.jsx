@@ -63,7 +63,6 @@ const Home = () => {
     setIsModalOpen(false);
   };
   const currentLanguage = i18n.language;
-  console.log(currentLanguage);
   const items = [
     getItem(
       <NavLink to="/dashboard">{t("Dashboard")}</NavLink>,
